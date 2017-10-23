@@ -1,0 +1,56 @@
+C:\Users\Windows\Downloads\What must be done\TankBattle\bin\Debug\TankBattle.exe.config
+C:\Users\Windows\Downloads\What must be done\TankBattle\bin\Debug\Images\background1.jpg
+C:\Users\Windows\Downloads\What must be done\TankBattle\bin\Debug\Images\background2.jpg
+C:\Users\Windows\Downloads\What must be done\TankBattle\bin\Debug\Images\background3.jpg
+C:\Users\Windows\Downloads\What must be done\TankBattle\bin\Debug\Images\background4.jpg
+C:\Users\Windows\Downloads\What must be done\TankBattle\bin\Debug\LICENSE.txt
+C:\Users\Windows\Downloads\What must be done\TankBattle\bin\Debug\TankBattle.exe
+C:\Users\Windows\Downloads\What must be done\TankBattle\bin\Debug\TankBattle.pdb
+C:\Users\Windows\Downloads\What must be done\TankBattle\obj\Debug\TankBattle.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Downloads\What must be done\TankBattle\obj\Debug\TankBattle.GameForm.resources
+C:\Users\Windows\Downloads\What must be done\TankBattle\obj\Debug\TankBattle.Properties.Resources.resources
+C:\Users\Windows\Downloads\What must be done\TankBattle\obj\Debug\TankBattle.TitlescreenForm.resources
+C:\Users\Windows\Downloads\What must be done\TankBattle\obj\Debug\TankBattle.csproj.GenerateResource.Cache
+C:\Users\Windows\Downloads\What must be done\TankBattle\obj\Debug\TankBattle.exe
+C:\Users\Windows\Downloads\What must be done\TankBattle\obj\Debug\TankBattle.pdb
+C:\Progetti\TankBattle\TankBattle\TankBattle\bin\Debug\TankBattle.exe.config
+C:\Progetti\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.exe
+C:\Progetti\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.pdb
+C:\Progetti\TankBattle\TankBattle\TankBattle\bin\Debug\Images\background1.jpg
+C:\Progetti\TankBattle\TankBattle\TankBattle\bin\Debug\Images\background2.jpg
+C:\Progetti\TankBattle\TankBattle\TankBattle\bin\Debug\Images\background3.jpg
+C:\Progetti\TankBattle\TankBattle\TankBattle\bin\Debug\Images\background4.jpg
+C:\Progetti\TankBattle\TankBattle\TankBattle\bin\Debug\TankBattle.exe
+C:\Progetti\TankBattle\TankBattle\TankBattle\bin\Debug\TankBattle.pdb
+C:\Progetti\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.GameForm.resources
+C:\Progetti\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.Properties.Resources.resources
+C:\Progetti\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.TitlescreenForm.resources
+C:\Progetti\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.csproj.GenerateResource.Cache
+C:\Temp\Diego\TankBattle\TankBattle\TankBattle\bin\Debug\TankBattle.exe.config
+C:\Temp\Diego\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.exe
+C:\Temp\Diego\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.pdb
+C:\Temp\Diego\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.GameForm.resources
+C:\Temp\Diego\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.Properties.Resources.resources
+C:\Temp\Diego\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.TitlescreenForm.resources
+C:\Temp\Diego\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.csproj.GenerateResource.Cache
+C:\Temp\Diego\TankBattle\TankBattle\TankBattle\bin\Debug\Images\background1.jpg
+C:\Temp\Diego\TankBattle\TankBattle\TankBattle\bin\Debug\Images\background2.jpg
+C:\Temp\Diego\TankBattle\TankBattle\TankBattle\bin\Debug\Images\background3.jpg
+C:\Temp\Diego\TankBattle\TankBattle\TankBattle\bin\Debug\Images\background4.jpg
+C:\Temp\Diego\TankBattle\TankBattle\TankBattle\bin\Debug\TankBattle.exe
+C:\Temp\Diego\TankBattle\TankBattle\TankBattle\bin\Debug\TankBattle.pdb
+E:\TankBattle\TankBattle\TankBattle\bin\Debug\TankBattle.exe.config
+E:\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.exe
+E:\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.pdb
+E:\TankBattle\TankBattle\TankBattle\bin\Debug\Images\background1.jpg
+E:\TankBattle\TankBattle\TankBattle\bin\Debug\Images\background2.jpg
+E:\TankBattle\TankBattle\TankBattle\bin\Debug\Images\background3.jpg
+E:\TankBattle\TankBattle\TankBattle\bin\Debug\Images\background4.jpg
+E:\TankBattle\TankBattle\TankBattle\bin\Debug\TankBattle.exe
+E:\TankBattle\TankBattle\TankBattle\bin\Debug\TankBattle.pdb
+E:\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.csprojResolveAssemblyReference.cache
+E:\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.GameForm.resources
+E:\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.Properties.Resources.resources
+E:\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.TitlescreenForm.resources
+E:\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.csproj.GenerateResource.Cache
+C:\Progetti\TankBattle\TankBattle\TankBattle\obj\Debug\TankBattle.csprojResolveAssemblyReference.cache
